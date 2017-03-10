@@ -1,0 +1,38 @@
+//
+//  PipaBella-Prefix.pch
+//  PipaBella
+//
+//  Created by Ranosys on 19/10/15.
+//  Copyright © 2015 Shivendra. All rights reserved.
+//
+
+#ifndef PipaBella_Prefix_pch
+#define PipaBella_Prefix_pch
+
+
+#import "AppDelegate.h"
+#import "Webservice.h"
+#import "BSKeyboardControls.h"
+#import "UIPlaceHolderTextView.h"
+#import "UITextField+Validations.h"
+#import "UITextView+Validations.h"
+#import "UIView+RoundedCorner.h"
+#import "UITextField+Border.h"
+#import "AlertController.h"
+#import "UserDefaultManager.h"
+#import "Internet.h"
+#import "UIButton+ButtonBorder.h"
+#import "UITextField+Padding.h"
+#import "GlobalViewController.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+Badge.h"
+#import "UITabBarItem+CustomBadge.h"
+#import "MozTopAlertView.h"
+#import "Localytics.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#define myDelegate ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+#endif /* PipaBella_Prefix_pch */
+
+
+

@@ -1,0 +1,18 @@
+PODS:
+  - Localytics (3.8.0)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SWTableViewCell (0.3.7)
+
+DEPENDENCIES:
+  - Localytics (~> 3.7)
+  - SDWebImage (~> 3.7)
+  - SWTableViewCell (~> 0.3.7)
+
+SPEC CHECKSUMS:
+  Localytics: 8fd8455e92c5d5d507d1302e704e7db5ca2a33bf
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+
+COCOAPODS: 0.39.0

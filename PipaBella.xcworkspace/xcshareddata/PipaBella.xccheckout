@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0E1ECD7D-C4AE-4EE4-82D1-16E166CF0DC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PipaBella</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B759A76986FF1B1747B06BA3CBF655F5995DA9E1</key>
+		<string>https://gitlab.com/ranosys-bkn/pipabella_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PipaBella.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B759A76986FF1B1747B06BA3CBF655F5995DA9E1</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://gitlab.com/ranosys-bkn/pipabella_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B759A76986FF1B1747B06BA3CBF655F5995DA9E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B759A76986FF1B1747B06BA3CBF655F5995DA9E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pipabella_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
